@@ -59,7 +59,7 @@ six==1.12.0
 typing==3.6.2
 unicodecsv==0.14.1
 uritemplate==3.0.0
-urllib3==1.24.2
+urllib3==1.26.5
 wheel==0.30.0
 XML2Dict==0.2.2
 bs4==0.0.1
